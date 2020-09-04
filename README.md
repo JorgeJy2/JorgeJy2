@@ -9,7 +9,7 @@
 ```javascript
 const jorgejy2 = {
   code: ["Javascript", "Typescript","Dart", "Java", "HTML/CSS"],
-  tools: ["Angular", "RxJs", "SPringMVC", "FLutter", "Android", "Docker", "Linux"],
+  tools: ["Angular", "RxJs", "Spring", "FLutter", "Android", "Docker", "Linux"],
   architecture: ["Design System Pattern"],
   preprocessor: ["SASS"]
 }
