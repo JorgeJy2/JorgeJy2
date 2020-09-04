@@ -7,7 +7,7 @@
 ### A little more about me...  
 
 ```javascript
-const vanessamarely = {
+const jorgejy2 = {
   code: ["Javascript", "Typescript","Dart", "Java", "HTML/CSS"],
   tools: ["Angular", "RxJs", "SPringMVC", "FLutter", "Android", "Docker", "Linux"],
   architecture: ["Design System Pattern"],
