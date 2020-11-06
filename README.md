@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jorge Jacobo</h2>
 
-<img align='right' src="https://avatars3.githubusercontent.com/u/44221869?s=460&u=937bd6ef559788217d3aecce5b49d62e8c7984ff&v=4" width="230">
+<img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230">
 
 <p><em>Web Developer</em></p>
 
