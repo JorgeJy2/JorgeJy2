@@ -9,8 +9,9 @@
 ```javascript
 const jorgejy2 = {
   code: ["Javascript", "Typescript","Dart", "Java", "HTML/CSS"],
-  tools: ["Angular", "Node", "RxJs", "Spring", "FLutter", "Android", "Docker", "Linux"],
-  architecture: ["Design System Pattern"],
+  frameworks: ["Angular", "Node", "Spring"],
+  tools: ["RxJs", "Firebase", "FLutter", "Android", "Docker", "Linux"],
+  architecture: ["Design System Pattern", "MVC", "MVVM"],
   preprocessor: ["SASS"]
 }
 ```
