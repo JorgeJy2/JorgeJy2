@@ -14,5 +14,6 @@ const jorgejy2 = {
 }
 ```
 <p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgejy2&show_icons=true" alt="jorgejy2" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgejy2&layout=compact&hide=html" alt="jorgejy2" />
- </p>
+</p>
