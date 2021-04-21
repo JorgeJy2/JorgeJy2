@@ -14,8 +14,8 @@ const jorgejy2 = {
 }
 ```
 <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgejy2&show_icons=true" alt="jorgejy2" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgejy2&show_icons=true&theme=dracula" alt="jorgejy2" />
 </p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgejy2" alt="braydentw" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgejy2&theme=dracula" alt="jorgejy2" /></a> </p>
 
